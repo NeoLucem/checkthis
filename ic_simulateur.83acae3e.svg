@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Simulateur" width="26" height="26" viewBox="0 0 26 26">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Rectangle_2105" d="M0 0H26V26H0z" class="cls-1"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:#020035}
+        </style>
+    </defs>
+    <g id="Mask_Group_10" clipPath="url(#clip-path)">
+        <g id="fi-rr-settings-sliders" transform="translate(0 0)">
+            <path id="Path_3721" d="M1.083 5.146h2.964a4.039 4.039 0 0 0 7.794 0h13.075a1.083 1.083 0 0 0 0-2.167H11.842a4.039 4.039 0 0 0-7.794 0H1.083a1.083 1.083 0 1 0 0 2.167zm6.861-2.979a1.9 1.9 0 1 1-1.9 1.9 1.9 1.9 0 0 1 1.9-1.9z" class="cls-1" transform="translate(0 0)"/>
+            <path id="Path_3722" d="M24.916 9.854h-2.964a4.037 4.037 0 0 0-7.793 0H1.083a1.083 1.083 0 1 0 0 2.167h13.076a4.037 4.037 0 0 0 7.793 0h2.964a1.083 1.083 0 1 0 0-2.167zm-6.861 2.979a1.9 1.9 0 1 1 1.9-1.9 1.9 1.9 0 0 1-1.899 1.9z" class="cls-1" transform="translate(0 2.062)"/>
+            <path id="Path_3723" d="M24.916 16.729H11.842a4.039 4.039 0 0 0-7.794 0H1.083a1.083 1.083 0 0 0 0 2.167h2.964a4.039 4.039 0 0 0 7.794 0h13.075a1.083 1.083 0 0 0 0-2.167zM7.944 19.708a1.9 1.9 0 1 1 1.9-1.9 1.9 1.9 0 0 1-1.9 1.9z" class="cls-1" transform="translate(0 4.125)"/>
+        </g>
+    </g>
+</svg>

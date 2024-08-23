@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Rectangle_2304" d="M0 0H16V16H0z" class="cls-1" transform="translate(865 13)"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:#090941}
+        </style>
+    </defs>
+    <g id="change" clipPath="url(#clip-path)" transform="translate(-865 -13)">
+        <g id="fi-rr-earnings" transform="translate(865 13)">
+            <path id="Path_3790" d="M12.667 0H9.333a.667.667 0 1 0 0 1.333h3.333a1.967 1.967 0 0 1 .857.2L.2 14.862a.667.667 0 1 0 .943.943L14.467 2.477a1.967 1.967 0 0 1 .2.857v3.333a.667.667 0 1 0 1.333 0V3.333A3.337 3.337 0 0 0 12.667 0z" class="cls-1"/>
+            <path id="Path_3791" d="M4 6.667A2.667 2.667 0 1 0 1.333 4 2.667 2.667 0 0 0 4 6.667zm0-4A1.333 1.333 0 1 1 2.667 4 1.333 1.333 0 0 1 4 2.667z" class="cls-1"/>
+            <path id="Path_3792" d="M12 9.333A2.667 2.667 0 1 0 14.667 12 2.667 2.667 0 0 0 12 9.333zm0 4A1.333 1.333 0 1 1 13.333 12 1.333 1.333 0 0 1 12 13.333z" class="cls-1"/>
+        </g>
+    </g>
+</svg>

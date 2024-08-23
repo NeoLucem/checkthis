@@ -1,0 +1,16 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_17268" data-name="Rectangle 17268" class="cls-1" width="18" height="18" transform="translate(0 1)"/>
+    </clipPath>
+  </defs>
+  <g id="Contact_us" data-name="Contact us" class="cls-2" transform="translate(0 -1)">
+    <g id="fi-rr-comment" transform="translate(0.009 1)">
+      <path id="Path_4799" data-name="Path 4799" class="cls-1" d="M17.982,8.429A9,9,0,1,0,9,17.984h5.232a3.75,3.75,0,0,0,3.746-3.746Zm-1.5,5.809a2.248,2.248,0,0,1-2.248,2.248H9a7.523,7.523,0,0,1-5.6-2.5A7.43,7.43,0,0,1,1.547,8.126,7.525,7.525,0,0,1,8.033,1.562,7.915,7.915,0,0,1,9.007,1.5a7.433,7.433,0,0,1,4.779,1.723,7.523,7.523,0,0,1,2.7,5.276Z" transform="translate(0.001 0.016)"/>
+      <path id="Path_4800" data-name="Path 4800" class="cls-1" d="M5.411,6.16h3a.749.749,0,0,0,0-1.5h-3a.749.749,0,0,0,0,1.5Z" transform="translate(0.584 0.601)"/>
+      <path id="Path_4801" data-name="Path 4801" class="cls-1" d="M11.405,7.326H5.411a.749.749,0,1,0,0,1.5h5.994a.749.749,0,1,0,0-1.5Z" transform="translate(0.584 0.934)"/>
+      <path id="Path_4802" data-name="Path 4802" class="cls-1" d="M11.405,9.99H5.411a.749.749,0,0,0,0,1.5h5.994a.749.749,0,1,0,0-1.5Z" transform="translate(0.584 1.267)"/>
+    </g>
+  </g>
+</svg>
